@@ -37,3 +37,10 @@ Run python main.py
 
 ![App Screenshot](https://i.ibb.co/B6f46zt/Screenshot-2024-01-12-174433.png)
 
+
+## Roadmap
+
+- Get a list of Quality
+
+- Get download link according to Quality
+
