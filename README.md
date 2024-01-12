@@ -40,7 +40,7 @@ Run python main.py
 
 ## Roadmap
 
-- Get a list of Quality
+- Get list of movie quality
 
 - Get download link according to Quality
 
