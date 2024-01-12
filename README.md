@@ -37,6 +37,15 @@ Run python main.py
 
 ![App Screenshot](https://i.ibb.co/B6f46zt/Screenshot-2024-01-12-174433.png)
 
+If you want to use it as API use flaskv2 
+
+
+![App Screenshot](https://i.ibb.co/crVW9mQ/flask.png)
+```bash
+pip install requests bs4 colorama flask
+
+```
+
 
 ## Roadmap
 
